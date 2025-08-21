@@ -6,9 +6,13 @@
 
 ### 仓库导航
 
-[酥卷静态文件](https://github/com/open-xiv/assets-data) 
+[酥卷静态文件](https://github.com/open-xiv/assets-data) 
 
 仓库内容自动使用 `https://assets.sumemo.dev` 分发
+
+[酥卷前端](https://github.com/open-xiv/memo-web) 
+
+仓库内容自动部署至 `https://sumemo.dev` 
 
 ---
 
