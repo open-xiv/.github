@@ -4,7 +4,7 @@
 
 ### 相关链接
 
-[酥卷 (SuMeMo)](https://fight.sumemo.dev) 是 FFXIV 的简易战斗记录平台 提供当前版本的高难副本进度查询
+[酥卷 SuMeMo](https://fight.sumemo.dev) 是 FFXIV 的简易战斗记录平台 提供当前版本的高难副本进度查询
 
 [Daily Routines](https://github.com/Dalamud-DailyRoutines) 致力于提供一系列有用的轻量化自动化与易用性改动模块
 
