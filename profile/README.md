@@ -46,6 +46,12 @@ https://github.com/open-xiv/memo-plugin-act/releases/latest/download/latest.zip
 
 ---
 
+### 酥卷频道
+
+[![image](https://discordapp.com/api/guilds/1387568839285280812/embed.png?style=banner2)](https://discord.gg/MDvv8Ejntw)
+
+---
+
 ### 相关链接
 
 ♥ [**Daily Routines**](https://github.com/Dalamud-DailyRoutines) 
@@ -59,9 +65,3 @@ https://github.com/open-xiv/memo-plugin-act/releases/latest/download/latest.zip
 ♥ [**呆萌 ACT**](https://act.diemoe.net) / [**咖啡 ACT**](https://www.ffcafe.cn/act)
 
 Advanced Combat Tracker 国服整合
-
----
-
-### 酥卷频道
-
-[![image](https://discordapp.com/api/guilds/1387568839285280812/embed.png?style=banner2)](https://discord.gg/MDvv8Ejntw)
