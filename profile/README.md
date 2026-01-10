@@ -14,7 +14,7 @@
 
 ---
 
-### 插件 卫月端
+### 插件 Dalamud
 
 ♥ **PFRadar** @ [decorwdyun](https://github.com/decorwdyun)
 
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins.json
 
 ---
 
-### 插件 ACT 端
+### 插件 ACT
 
 ♥ **SuMemo Plugin** @ 酥卷开发组
 
