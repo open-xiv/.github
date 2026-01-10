@@ -1,34 +1,64 @@
-## Open XIV
+## 酥卷 SuMeMo
 
-记录 **酥卷 (SuMeMo)** 及其他 **最终幻想 14 (FF14)** 游戏插件的相关内容
+基于 **众包** 的 **最终幻想 14 (FF14)** 高难副本攻略进度记录平台
+
+**艾欧泽亚反诈中心** 将帮助您「进队前查询他人攻略进度，以防受骗。」
 
 ---
 
-### 仓库导航
+### 网页版
 
-[酥卷静态文件](https://github.com/open-xiv/assets-data) 
+[酥卷 SuMeMo](https://fight.sumemo.dev) @ 酥卷开发组
 
-使用 `https://assets.sumemo.dev` 分发
+随时随地查询玩家进度 关爱您的心上人
 
-[酥卷前端](https://github.com/open-xiv/memo-web) 
+---
 
-部署至 `https://sumemo.dev` 
+### 插件 卫月端
+
+♥ **PFRadar** @ [decorwdyun](https://github.com/decorwdyun)
+
+```
+https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.json
+```
+
+一键查询招募版中小队进度
+
+♥ **SuMemo Uploader** @ 酥卷开发组
+
+```
+https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins.json
+```
+
+实时查看当前攻略进度
+
+---
+
+### 插件 ACT 端
+
+♥ **SuMemo Plugin** @ 酥卷开发组
+
+```
+https://github.com/open-xiv/memo-plugin-act/releases/latest/download/latest.zip
+```
+
+一键查询招募版中小队进度
 
 ---
 
 ### 相关链接
 
-[酥卷 SuMeMo](https://fight.sumemo.dev)
-
-简易战斗记录平台 提供当前版本的高难副本进度查询
-
-[Daily Routines](https://github.com/Dalamud-DailyRoutines) 
+♥ [**Daily Routines**](https://github.com/Dalamud-DailyRoutines) 
 
 致力于提供一系列有用的轻量化自动化与易用性改动模块
 
-[Kodakku Assistant](https://discord.gg/qzgvWufNRD) 
+♥ [**Kodakku Assistant**](https://discord.gg/qzgvWufNRD) 
 
 包含一系列基于战斗事件的高级功能
+
+♥ [**呆萌 ACT**](https://act.diemoe.net) / [**咖啡 ACT**](https://www.ffcafe.cn/act)
+
+Advanced Combat Tracker 国服整合
 
 ---
 
