@@ -36,10 +36,10 @@ https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins.json
 
 ### 插件 ACT
 
-♥ **SuMemo Plugin** @ 酥卷开发组
+♥ **SuMemo Plugin** @ 酥卷开发组 / 萌新科技研究所
 
 ```
-https://github.com/open-xiv/memo-uploader-act/releases/latest/download/MemoUploader.dll
+https://haku.diemoe.net/memo-uploader/manifest.json
 ```
 
 一键查询招募版中小队进度
