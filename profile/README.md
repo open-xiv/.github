@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins.json
 ♥ **SuMemo Plugin** @ 酥卷开发组
 
 ```
-https://github.com/open-xiv/memo-plugin-act/releases/latest/download/latest.zip
+https://github.com/open-xiv/memo-uploader-act/releases/latest/download/MemoUploader.dll
 ```
 
 一键查询招募版中小队进度
