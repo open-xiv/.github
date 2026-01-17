@@ -38,11 +38,19 @@ https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins.json
 
 ♥ **SuMemo Plugin** @ 酥卷开发组 / 萌新科技研究所
 
+> 呆萌 ACT 已内置
+
 ```
 https://haku.diemoe.net/memo-uploader/manifest.json
 ```
 
 一键查询招募版中小队进度
+
+♥ **SuMemo Overlay** @ 酥卷开发组 / 萌新科技研究所
+
+```
+https://haku.diemoe.net/overlay/index.html
+```
 
 ---
 
@@ -62,6 +70,6 @@ https://haku.diemoe.net/memo-uploader/manifest.json
 
 包含一系列基于战斗事件的高级功能
 
-♥ [**呆萌 ACT**](https://act.diemoe.net) / [**咖啡 ACT**](https://www.ffcafe.cn/act)
+♥ [**呆萌 ACT**](https://act.diemoe.net)
 
 Advanced Combat Tracker 国服整合
